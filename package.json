@@ -1,0 +1,22 @@
+{
+  "name": "anal.js",
+  "version": "0.0.1",
+  "description": "anal.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfaproject/anal.js.git"
+  },
+  "author": "Joao Dias <joao.dias@cherrygroup.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfaproject/anal.js/issues"
+  },
+  "homepage": "https://github.com/alfaproject/anal.js#readme",
+  "dependencies": {
+    "lube.js": "github:alfaproject/lube.js"
+  }
+}

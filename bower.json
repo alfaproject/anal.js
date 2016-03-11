@@ -1,0 +1,23 @@
+{
+  "name": "anal.js",
+  "description": "anal.js",
+  "main": "index.js",
+  "authors": [
+    "Joao Dias <joao.dias@cherrygroup.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alfaproject/anal.js",
+  "moduleType": [
+    "es6"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lube.js": "alfaproject/lube.js"
+  }
+}
